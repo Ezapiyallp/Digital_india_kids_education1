@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.digital_india_kids_education"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.digital_india_kids_education.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Main_option"
+            android:label="@string/title_activity_main_option" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.English"
+            android:label="English" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Hindi"
+            android:label="Hindi" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Number"
+            android:label="Number" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Gk"
+            android:label="GK" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Admin"
+            android:label="Admin" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.English_writing"
+            android:label="@string/title_activity_english_writing" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.English_fill_in_blank"
+            android:label="@string/title_activity_english_fill_in_blank" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.English_match_pair"
+            android:label="@string/title_activity_english_match_pair" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.English_find_similar"
+            android:label="@string/title_activity_english_find_similar" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.English_round_similar"
+            android:label="@string/title_activity_english_round_similar" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Hindi_writing"
+            android:label="@string/title_activity_hindi_writing" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Hindi_fill_in_black"
+            android:label="@string/title_activity_hindi_fill_in_black" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Hindi_match_pair"
+            android:label="@string/title_activity_hindi_match_pair" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Hindi_find_similar"
+            android:label="@string/title_activity_hindi_find_similar" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Hindi_round_similar"
+            android:label="@string/title_activity_hindi_round_similar" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Number_writing"
+            android:label="@string/title_activity_number_writing" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Number_fill_in_blank"
+            android:label="@string/title_activity_number_fill_in_blank" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Number_find_similar"
+            android:label="@string/title_activity_number_find_similar" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Number_round_similar"
+            android:label="@string/title_activity_number_round_similar" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Gk_writing"
+            android:label="@string/title_activity_gk_writing" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Gk_fill_in_blank"
+            android:label="@string/title_activity_gk_fill_in_blank" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Gk_match_pair"
+            android:label="@string/title_activity_gk_match_pair" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Gk_find_similar"
+            android:label="@string/title_activity_gk_find_similar" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Gk_round_similar"
+            android:label="@string/title_activity_gk_round_similar" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Number_match_pair"
+            android:label="@string/title_activity_number_match_pair" >
+        </activity>
+        <activity
+            android:name="com.example.digital_india_kids_education.Brush_chooser"
+            android:label="@string/title_activity_brush_chooser" >
+        </activity>
+    </application>
+
+</manifest>

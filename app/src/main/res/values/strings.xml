@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Digital India Kid Education</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+    <string name="title_activity_brush_chooser">Brush_chooser</string>
+    <string name="title_activity_first_look">First_look</string>
+    <string name="title_activity_main_option">Main_option</string>
+    <string name="title_activity_english">English</string>
+    <string name="title_activity_hindi">Hindi</string>
+    <string name="title_activity_number">Number</string>
+    <string name="title_activity_gk">Gk</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_activity_english_writing">English_writing</string>
+    <string name="title_activity_english_fill_in_blank">English_fill_in_blank</string>
+    <string name="title_activity_english_match_pair">English_match_pair</string>
+    <string name="title_activity_english_find_similar">English_find_similar</string>
+    <string name="title_activity_english_round_similar">English_round_similar</string>
+    <string name="title_activity_hindi_writing">Hindi_writing</string>
+    <string name="title_activity_hindi_fill_in_black">Hindi_fill_in_black</string>
+    <string name="title_activity_hindi_match_pair">Hindi_match_pair</string>
+    <string name="title_activity_hindi_find_similar">Hindi_find_similar</string>
+    <string name="title_activity_hindi_round_similar">Hindi_round_similar</string>
+    <string name="title_activity_number_writing">Number_writing</string>
+    <string name="title_activity_number_fill_in_blank">Number_fill_in_blank</string>
+    <string name="title_activity_number_find_similar">Number_find_similar</string>
+    <string name="title_activity_number_round_similar">Number_round_similar</string>
+    <string name="title_activity_gk_writing">Gk_writing</string>
+    <string name="title_activity_gk_fill_in_blank">Gk_fill_in_blank</string>
+    <string name="title_activity_gk_match_pair">Gk_match_pair</string>
+    <string name="title_activity_gk_find_similar">Gk_find_similar</string>
+    <string name="title_activity_gk_round_similar">Gk_round_similar</string>
+    <string name="title_activity_number_match_pair">Number_match_pair</string>
+
+</resources>

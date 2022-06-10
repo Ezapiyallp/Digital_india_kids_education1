@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/english_fill_in_blank_action_capital"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Capital"/>
+<item
+        android:id="@+id/english_fill_in_blank_action_small"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Small"/>
+
+
+<item
+        android:id="@+id/english_fill_in_blank_action_show_bg"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Show Background"/>
+
+
+<item
+        android:id="@+id/english_fill_in_blank_action_randam"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Capital and Randam"/>
+
+
+</menu>

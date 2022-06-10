@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/english_find_similar_action_capital"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Capital"/>
+
+    <item
+        android:id="@+id/english_find_similar_action_small"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Small"/>
+    
+
+    
+</menu>

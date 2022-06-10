@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gk.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\gk.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_hindi_writing.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\hindi_writing.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ezapiya_logo.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\ezapiya_logo.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_english.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\english.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_new_pic.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xhdpi\\new_pic.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gk_round_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_gk_round_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_brush.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-ldpi\\brush.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_save.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-mdpi\\save.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_hindi.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\hindi.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_option.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_main_option.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eraser.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-mdpi\\eraser.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_brush.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\brush.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_save.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-ldpi\\save.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hindi_round_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_hindi_round_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_save.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\save.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_number_find_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\number_find_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_number_match_pair.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_number_match_pair.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_english_writing.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\english_writing.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_prv.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xhdpi\\prv.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_number_round_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_number_round_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_option.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\main_option.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_hindi_match_pair.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\hindi_match_pair.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_number.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\number.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\user.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_gk_fill_in_blank.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\gk_fill_in_blank.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_hindi_round_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\hindi_round_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_writing.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\writing.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_eraser.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xhdpi\\eraser.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_brush_chooser.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_brush_chooser.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_number_writing.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_number_writing.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_prv.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-mdpi\\prv.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_english.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\english.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_english_match_pair.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\english_match_pair.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_number_fill_in_blank.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_number_fill_in_blank.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hindi_match_pair.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_hindi_match_pair.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_english_find_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_english_find_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_english_fill_in_blank.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\english_fill_in_blank.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_english.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_english.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_english_find_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\english_find_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_next.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-ldpi\\next.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hindi_fill_in_black.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_hindi_fill_in_black.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sound.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\sound.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_adm.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\adm.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\number.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_brush_chooser.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\brush_chooser.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hindi_writing.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_hindi_writing.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_eraser.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\eraser.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_number_fill_in_blank.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\number_fill_in_blank.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_save.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xhdpi\\save.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_english_round_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_english_round_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fill_in_the_blank.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\fill_in_the_blank.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_hindi_fill_in_black.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\hindi_fill_in_black.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_gk_writing.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\gk_writing.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_prv.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\prv.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_english_writing.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_english_writing.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_eraser.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\eraser.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\small.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paint.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\paint.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_gk.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\gk.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_match_the_pair.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\match_the_pair.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_gk_match_pair.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\gk_match_pair.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gk.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_gk.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_english_fill_in_blank.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_english_fill_in_blank.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_round_alphabet.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\round_alphabet.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_new_pic.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\new_pic.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gk_writing.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_gk_writing.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paint_pressed.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\paint_pressed.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_number_round_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\number_round_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_find_alphabet.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\find_alphabet.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_new_pic.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-ldpi\\new_pic.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_prv.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-ldpi\\prv.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_brush.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xhdpi\\brush.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_hindi_find_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\hindi_find_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gk_match_pair.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_gk_match_pair.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_brush.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-mdpi\\brush.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_new_pic.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-mdpi\\new_pic.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_number_match_pair.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\number_match_pair.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gk_find_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_gk_find_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_pic.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\new_pic.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_english_round_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\english_round_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_admin.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\admin.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_large.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\large.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_number_writing.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\number_writing.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_number.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_number.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_next.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\next.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_number_find_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_number_find_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hindi.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\hindi.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_gk_round_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\gk_round_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_english_match_pair.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_english_match_pair.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_medium.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\medium.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gk_fill_in_blank.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_gk_fill_in_blank.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\menu_gk_find_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\menu\\gk_find_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hindi.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_hindi.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hindi_find_similar.xml.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\layout\\activity_hindi_find_similar.xml"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sound1.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\sound1.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_brush.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xxhdpi\\brush.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_next.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-mdpi\\next.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_next.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-xhdpi\\next.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_prv.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-hdpi\\prv.png"
+    },
+    {
+        "merged": "D:\\android_projects\\Digital_india_kids_education1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_eraser.png.flat",
+        "source": "D:\\android_projects\\Digital_india_kids_education1\\app\\src\\main\\res\\drawable-ldpi\\eraser.png"
+    }
+]
